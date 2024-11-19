@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+test/
+
+*.exe
+*.x
+*.out
+*.o
+*.a
+*.txt
+*.log
